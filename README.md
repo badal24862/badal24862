@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @badal24862
-- 👀 I’m interested in ... cyber security
+- 👀 I’m interested in ... offensive security
 - 🌱 I’m currently learning ... networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/badal-kumar-6b6895290
